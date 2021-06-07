@@ -4,7 +4,7 @@
 
 Write your bot using one of six languages (C#, Go, Java, JavaScript, Python and PHP) and fight against other players to reach the first place in the leaderboard.
 
-Looks difficult? Don't worry, there is a starter kit and a guide so that anyone at any level can participate. [Check out the guide and the starter kit here](https://bomberjam.anthonysimmon.com/). Hope you enjoye it!
+Looks difficult? Don't worry, there is a starter kit and a guide so that anyone at any level can participate. [Check out the guide and the starter kit here](https://bomberjam.anthonysimmon.com/). May the best bot win!
 
 
 
