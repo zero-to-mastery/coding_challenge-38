@@ -18,7 +18,11 @@ Looks difficult? Don't worry, there is a starter kit and a guide so that anyone 
 
 ## Submissions:
 
-Student Submissions will be posted here at the end of the challenge:
+Congratulations to the winner:
+
+Alberto#1741
+Github Repo
+https://github.com/Alberto03/bomberjam-contest-php
 
 
 
